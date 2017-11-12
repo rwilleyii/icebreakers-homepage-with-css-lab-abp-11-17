@@ -60,3 +60,7 @@ div.jumbotron{
   padding: 10px;
   text-align: center;
 }
+
+.jumbotron H1{
+  font-size: 60px;
+}
