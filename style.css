@@ -36,4 +36,9 @@ nav a:hover{
   color: #0056b3;
 }
 
+h3#header{
+  float: left;
+  font-size: 30px;
+}
+
 
